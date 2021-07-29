@@ -1,0 +1,13 @@
+{
+  "name": "datawarp",
+  "version": "1.0.0",
+  "description": "Think of it as a universal useContext hook that can be used in any framework.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alex Merced",
+  "license": "ISC"
+}
